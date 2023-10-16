@@ -1,0 +1,7 @@
+N_list = input("Please enter your numbers seperated by a space: \n").split()
+N_list2 = []
+for i in N_list:
+	N_list2.append(int(i))
+
+for numeric iterations on lists.
+------------------------------------------------
